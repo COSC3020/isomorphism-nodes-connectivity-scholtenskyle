@@ -10,7 +10,7 @@ $G_1=(V_1 , E_1)$ is isomorphic to $G_2 = (V_2, E_2)$ if there exists a
 one-to-one and onto function (bijection) $f: V_1 \rightarrow V_2$ such that $(u,v)
 \in E_1$ iff $(f(u),f(v)) \in E_2$.
 
-Using the definition above to map to graphs of size n, we would use:
+In order to be isomorphic, two graphs must have the same amount of nodes. Knowing this, there must exist a function that can perfectly map a graph onto another, as long as they are isomorphic. Using the definition above to map to graphs of size n, we would use:
 
 $$α:V(V1) \rightarrow V(V2)$$
 
