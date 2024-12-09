@@ -12,7 +12,7 @@ one-to-one and onto function (bijection) $f: V_1 \rightarrow V_2$ such that $(u,
 
 Using the definition above to map to graphs of size n, we would use:
 
-$$α:V(V1) -> V(V2)$$
+$$α:V(V1) \rightarrow V(V2)$$
 
 $$α: (1,2,3,4,...,n), (1,2,3,4,...,n)$$
 
