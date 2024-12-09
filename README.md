@@ -10,6 +10,12 @@ $G_1=(V_1 , E_1)$ is isomorphic to $G_2 = (V_2, E_2)$ if there exists a
 one-to-one and onto function (bijection) $f: V_1 \rightarrow V_2$ such that $(u,v)
 \in E_1$ iff $(f(u),f(v)) \in E_2$.
 
+Using the definition above to map to graphs of size n, we would use:
+
+$$α:V(V1) -> V(V2)$$
+
+$$α: (1,2,3,4,...,n), (1,2,3,4,...,n)$$
+
 First we need the equation for the edges:
 
 $$E = n/2 = (n(n-1))/2$$
